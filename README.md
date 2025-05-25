@@ -24,6 +24,9 @@ A Java-based implementation of the k-Nearest Neighbours (kNN) algorithm designed
   - Output: `output.txt`
 
 ---
+
+## Files Included
+
 kNN-EEG-Classification/
 ├── kNN1.java # Main classifier implementation
 ├── train_data.txt # Training feature vectors
@@ -32,5 +35,3 @@ kNN-EEG-Classification/
 ├── test_label.txt # Ground truth for test data
 ├── output.txt # Output predictions
 ├── README.md # Project overview
-
-## Files Included
